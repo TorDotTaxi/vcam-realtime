@@ -15,7 +15,7 @@ The server only needs internet access to download the model on the first run. Fr
    `llama-server -hf ngxson/Vintern-1B-v3_5-GGUF --chat-template vicuna`
    Note: You may need to add `-ngl 99` to enable GPU support (if you are using an NVidia/AMD/Intel GPU)
    Note (2): You can also try other models [here](https://github.com/ggml-org/llama.cpp/blob/master/docs/multimodal.md)
-3. Open `index.html` (or use this link: [https://github.ngxson.com/vintern-realtime-demo/](https://github.ngxson.com/vintern-realtime-demo/))
+3. Open `index.html` (or use this link: [https://tordottaxi.github.io/vcam-realtime/](https://tordottaxi.github.io/vcam-realtime/))
 4. (Optional) Change the prompt, such as instructing it to return JSON instead of a description
 5. Click "Start"
 
